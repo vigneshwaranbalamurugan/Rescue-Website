@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Rescue Team Information</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f2f2f2;
+            margin: 0;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #FFFFE0;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+        }
+
+        h1 {
+            text-align: center;
+            color: #333;
+        }
+
+        label {
+            display: block;
+            font-weight: bold;
+        }
+
+        input[type="text"], input[type="tel"], input[type="email"], textarea {
+            width: 98%;
+            padding: 10px;
+            margin-bottom: 10px;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+        }
+
+        button {
+            background-color: #3498db;
+            color: #fff;
+            padding: 10px 20px;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+        }
+
+        button:hover {
+            background-color: #2980b9;
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <h1>Rescue Team Information Form</h1>
+    <form action="#" method="post">
+        <label for="teamName">Team Name:</label>
+        <input type="text" id="teamName" name="teamName" required>
+
+        <label for="mailingAddress">Mailing Address:</label>
+        <input type="text" id="mailingAddress" name="mailingAddress" required>
+
+        <label for="phoneNumber">Phone Number:</label>
+        <input type="tel" id="phoneNumber" name="phoneNumber" required>
+
+        <label for="emailAddress">Email Address:</label>
+        <input type="email" id="emailAddress" name="emailAddress" required>
+
+        <label for="websiteAddress">Website Address:</label>
+        <input type="text" id="websiteAddress" name="websiteAddress">
+
+        <label for="missionValues">Team Mission and Values:</label>
+        <textarea id="missionValues" name="missionValues" rows="4" required></textarea>
+
+        <label for="teamHistory">Team History:</label>
+        <textarea id="teamHistory" name="teamHistory" rows="4" required></textarea>
+
+        <label for="teamMembers">Team Members:</label>
+        <textarea id="teamMembers" name="teamMembers" rows="4" required></textarea>
+
+        <label for="teamEquipment">Team Equipment:</label>
+        <textarea id="teamEquipment" name="teamEquipment" rows="4" required></textarea>
+
+        <label for="teamTraining">Team Training:</label>
+        <textarea id="teamTraining" name="teamTraining" rows="4" required></textarea>
+
+        <label for="volunteerOpportunities">Volunteer Opportunities:</label>
+        <textarea id="volunteerOpportunities" name="volunteerOpportunities" rows="4" required></textarea>
+
+        <!-- Additional Fields (Photos, News, Donation Information, etc.) can be added here -->
+          <label for="teamPhotos">Upload Team Photos:</label>
+        <input type="file" id="teamPhotos" name="teamPhotos" accept="image/*" multiple>
+        
+        <label for="teamVideos">Upload Team Videos:</label>
+        <input type="file" id="teamVideos" name="teamVideos" accept="video/*" multiple>
+
+        <label for="newsAndEvents">Team News and Events:</label>
+        <textarea id="newsAndEvents" name="newsAndEvents" rows="4"></textarea>
+
+        <label for="donationInformation">Team Donation Information:</label>
+        <textarea id="donationInformation" name="donationInformation" rows="4"></textarea>
+        <button type="submit">Submit</button>
+    </form>
+</div>
+
+</body>
+</html>
