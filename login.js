@@ -13,6 +13,7 @@
         .then(() => {
           console.log('Logged in successfully!');
           alert("Login Successfully");
+            window.location.href='Profile.html';
         })
         .catch((error) => {
           alert(error.message);
