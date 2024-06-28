@@ -6,15 +6,11 @@
 
 ## Screenshots
 
-![Screenshot 2024-06-28 113537](https://github.com/vigneshwaranbalamurugan/Rescue-Website/assets/171491614/289ab83f-6ced-4b06-ad47-484a21be00fb)
-
-![Screenshot 2024-06-28 113600](https://github.com/vigneshwaranbalamurugan/Rescue-Website/assets/171491614/2a23d3c7-0994-4359-b08d-b11fd2506a83)
-
-![Screenshot 2024-06-28 113621](https://github.com/vigneshwaranbalamurugan/Rescue-Website/assets/171491614/7954a17c-283e-4dbc-ab9b-a0dc6ca68f5b)
-
-![Screenshot 2024-06-28 114401](https://github.com/vigneshwaranbalamurugan/Rescue-Website/assets/171491614/814d79f0-118f-4ca7-8677-356a8df7d5c4)
-
-![Screenshot 2024-06-28 114433](https://github.com/vigneshwaranbalamurugan/Rescue-Website/assets/171491614/2564cdd5-b79a-462c-90cd-fe3d6997722d)
-
-![Screenshot 2024-06-28 113153](https://github.com/vigneshwaranbalamurugan/Rescue-Website/assets/171491614/ea5bb796-3779-41bf-aa20-841c5138a1c7)
-
+<div align="center">
+    <img src="https://github.com/vigneshwaranbalamurugan/Rescue-Website/assets/171491614/289ab83f-6ced-4b06-ad47-484a21be00fb" alt="Screenshot 1" width="300" height="300">
+    <img src="https://github.com/vigneshwaranbalamurugan/Rescue-Website/assets/171491614/2a23d3c7-0994-4359-b08d-b11fd2506a83" alt="Screenshot 2" width="300" height="300">
+    <img src="https://github.com/vigneshwaranbalamurugan/Rescue-Website/assets/171491614/7954a17c-283e-4dbc-ab9b-a0dc6ca68f5b" alt="Screenshot 3" width="300" height="300">
+    <img src="https://github.com/vigneshwaranbalamurugan/Rescue-Website/assets/171491614/814d79f0-118f-4ca7-8677-356a8df7d5c4" alt="Screenshot 4" width="300" height="300">
+    <img src="https://github.com/vigneshwaranbalamurugan/Rescue-Website/assets/171491614/2564cdd5-b79a-462c-90cd-fe3d6997722d" alt="Screenshot 5" width="300" height="300">
+    <img src="https://github.com/vigneshwaranbalamurugan/Rescue-Website/assets/171491614/ea5bb796-3779-41bf-aa20-841c5138a1c7" alt="Screenshot 6" width="300" height="300">
+</div>
